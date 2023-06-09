@@ -1,5 +1,6 @@
 # Smart Search API for Images!!
-The Smart Search API for Images is a powerful tool that allows users to perform advanced searches on a collection of images. It utilizes cutting-edge technologies to provide accurate and fast search results based on image content.
+The Smart Search API for Images is a powerful tool that allows users to perform advanced searches on a collection of images.
+It utilizes cutting-edge technologies to provide accurate and fast search results based on image content.
 
 # Technologies Used
 HTML: Used for structuring the web pages and user interfaces.
@@ -15,11 +16,11 @@ Scalable: The API is built to handle high volumes of search requests and can sca
 Easy to Use: Simple API endpoints make it easy to interact with the service and retrieve search results.
 
 # Some interface of SmartSearch
-[Screenshot (88)](https://github.com/ankit3388/SmartSearch/assets/106178304/70d953e8-289b-4563-be36-a4a572ddf110)
-  Searched  programmer 
-![Screenshot (91)](https://github.com/ankit3388/SmartSearch/assets/106178304/e6214c63-ba99-4456-a552-edc9ddce73b0)
+[Screenshot (91)](https://github.com/ankit3388/SmartSearch/assets/106178304/e6214c63-ba99-4456-a552-edc9ddce73b0)
+[programmer image](https://github.com/ankit3388/SmartSearch/assets/106178304/70d953e8-289b-4563-be36-a4a572ddf110)
 
 # Contributing
 We welcome contributions from the community! If you would like to contribute to the project, please follow the guidelines in the CONTRIBUTING.md file.
+
 # Support
-If you encounter any issues or have questions or suggestions, please contact our support team at bantiyadav16095@gmail.com
+If you encounter any issues or have questions or suggestions, please contact at bantiyadav16095@gmail.com
