@@ -32,7 +32,6 @@ JavaScript: Used for implementing the interactive features and functionality of 
 ![related to india](https://github.com/ankit3388/SmartSearch/assets/106178304/d52fe27e-857d-4514-b002-609923ff266a)
 
 # Contributing
-We welcome contributions from the community! If you would like to contribute to the project, please follow the guidelines in the CONTRIBUTING.md file.
-
+We welcome contributions from the community! .
 # Support
 If you encounter any issues or have questions or suggestions, please contact at bantiyadav16095@gmail.com
